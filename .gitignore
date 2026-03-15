@@ -1,0 +1,10 @@
+*.pth
+app/weights/
+app/checkpoints/
+
+*.h5
+*.hdf5
+app/dataset/
+
+__pycache__/
+*.pyc
