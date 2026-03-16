@@ -35,3 +35,8 @@ epoch : 2
 Input : Nice meet you.
 Ouput : 반갑습니다.
 ```
+
+# 사용법
+release에서 weights 다운로드
+app.weights 폴더에 옮김
+python -m main 이후 번호 입력
