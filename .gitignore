@@ -1,5 +1,3 @@
-*.pth
-app/weights/
 app/checkpoints/
 
 *.h5
